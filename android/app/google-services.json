@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851176893311",
+    "project_id": "api-f209a",
+    "storage_bucket": "api-f209a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851176893311:android:dd9fe0395766dfadc1484a",
+        "android_client_info": {
+          "package_name": "com.example.google_apl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWmCL0i5D7ArVrG_q5HGc3BC2ZCx8FzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
